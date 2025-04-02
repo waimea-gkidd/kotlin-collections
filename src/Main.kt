@@ -50,8 +50,8 @@ fun main() {
     for (item in snacks) {
 
     }
-    // Search for an item
-    println("Cranberries is in the list: ${ snacks.contains("Cranberries") }")
+    // Search for an ited
+  println("Cranberries is in the list: ${ snacks.contains("Cranberries") }")
     println("Twiglets is in the list: ${ snacks.contains("Twiglets") }")
 
     // Getting index of an item
